@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "87093297850",
+    "firebase_url": "https://presencepointmuj-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "presencepointmuj",
+    "storage_bucket": "presencepointmuj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87093297850:android:72be072191e405c677b883",
+        "android_client_info": {
+          "package_name": "com.adikr.presencepoint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpDPQNK2tTZyVRlJTbnUJl-L4gCKfI41w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
